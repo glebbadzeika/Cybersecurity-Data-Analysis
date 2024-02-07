@@ -1,6 +1,7 @@
 
 
-# QED-Recruitment-Challenge
+# Cybersecurity-Data-Analysis
+
 
 
 This repository contains a solution for cybersecurity data analysis using Gradient Boosting Machine (GBM). The goal of this project was to develop a model capable of predicting cybersecurity alerts. Multiple methodologies were explored, including logistic regression, neural networks with Keras, and decision trees, with GBM ultimately chosen due to its superior performance with this particular dataset.
